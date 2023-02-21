@@ -1,0 +1,78 @@
+D:\Tài liệu học tập\DesktopApplicationDevelopment\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.csproj.AssemblyReference.cache
+D:\Tài liệu học tập\DesktopApplicationDevelopment\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.csproj.SuggestedBindingRedirects.cache
+D:\Tài liệu học tập\DesktopApplicationDevelopment\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.Properties.Resources.resources
+D:\Tài liệu học tập\DesktopApplicationDevelopment\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.csproj.GenerateResource.cache
+D:\Tài liệu học tập\DesktopApplicationDevelopment\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.csproj.CoreCompileInputs.cache
+D:\Tài liệu học tập\DesktopApplicationDevelopment\QuanLyNhaSach\QuanLyNhaSach\bin\Debug\QuanLyNhaSach.exe.config
+D:\Tài liệu học tập\DesktopApplicationDevelopment\QuanLyNhaSach\QuanLyNhaSach\bin\Debug\QuanLyNhaSach.exe
+D:\Tài liệu học tập\DesktopApplicationDevelopment\QuanLyNhaSach\QuanLyNhaSach\bin\Debug\QuanLyNhaSach.pdb
+D:\Tài liệu học tập\DesktopApplicationDevelopment\QuanLyNhaSach\QuanLyNhaSach\bin\Debug\EntityFramework.dll
+D:\Tài liệu học tập\DesktopApplicationDevelopment\QuanLyNhaSach\QuanLyNhaSach\bin\Debug\EntityFramework.SqlServer.dll
+D:\Tài liệu học tập\DesktopApplicationDevelopment\QuanLyNhaSach\QuanLyNhaSach\bin\Debug\EntityFramework.xml
+D:\Tài liệu học tập\DesktopApplicationDevelopment\QuanLyNhaSach\QuanLyNhaSach\bin\Debug\EntityFramework.SqlServer.xml
+D:\Tài liệu học tập\DesktopApplicationDevelopment\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.csproj.CopyComplete
+D:\Tài liệu học tập\DesktopApplicationDevelopment\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.exe
+D:\Tài liệu học tập\DesktopApplicationDevelopment\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.pdb
+D:\Tài liệu học tập\DesktopApplicationDevelopment\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.Splash.resources
+D:\Tài liệu học tập\DesktopApplicationDevelopment\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.HoaDon.resources
+D:\Tài liệu học tập\DesktopApplicationDevelopment\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.TaoHoaDon.resources
+D:\Tài liệu học tập\DesktopApplicationDevelopment\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.UsersControl.UC_HoaDon.resources
+D:\Tài liệu học tập\DesktopApplicationDevelopment\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.UsersControl.UC_KhachHang.resources
+D:\Tài liệu học tập\DesktopApplicationDevelopment\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.UsersControl.UC_Sach.resources
+D:\Tài liệu học tập\DesktopApplicationDevelopment\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.UsersControl.UC_NhanVien.resources
+D:\Tài liệu học tập\DesktopApplicationDevelopment\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.UsersControl.UC_ThongKe.resources
+D:\Tài liệu học tập\DesktopApplicationDevelopment\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.Forms.DangNhap.resources
+D:\Tài liệu học tập\DesktopApplicationDevelopment\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.Forms.DangNhapQuanLy.resources
+D:\Tài liệu học tập\DesktopApplicationDevelopment\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.Forms.SoLuong.resources
+C:\Users\taote\OneDrive\Máy tính\QuanLyNhaSach\QuanLyNhaSach\bin\Debug\QuanLyNhaSach.exe.config
+C:\Users\taote\OneDrive\Máy tính\QuanLyNhaSach\QuanLyNhaSach\bin\Debug\QuanLyNhaSach.exe
+C:\Users\taote\OneDrive\Máy tính\QuanLyNhaSach\QuanLyNhaSach\bin\Debug\QuanLyNhaSach.pdb
+C:\Users\taote\OneDrive\Máy tính\QuanLyNhaSach\QuanLyNhaSach\bin\Debug\EntityFramework.dll
+C:\Users\taote\OneDrive\Máy tính\QuanLyNhaSach\QuanLyNhaSach\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\taote\OneDrive\Máy tính\QuanLyNhaSach\QuanLyNhaSach\bin\Debug\EntityFramework.xml
+C:\Users\taote\OneDrive\Máy tính\QuanLyNhaSach\QuanLyNhaSach\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\taote\OneDrive\Máy tính\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.csproj.AssemblyReference.cache
+C:\Users\taote\OneDrive\Máy tính\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.csproj.SuggestedBindingRedirects.cache
+C:\Users\taote\OneDrive\Máy tính\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.Forms.DangNhap.resources
+C:\Users\taote\OneDrive\Máy tính\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.Forms.DangNhapQuanLy.resources
+C:\Users\taote\OneDrive\Máy tính\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.HoaDon.resources
+C:\Users\taote\OneDrive\Máy tính\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.Forms.SoLuong.resources
+C:\Users\taote\OneDrive\Máy tính\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.Properties.Resources.resources
+C:\Users\taote\OneDrive\Máy tính\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.Splash.resources
+C:\Users\taote\OneDrive\Máy tính\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.TaoHoaDon.resources
+C:\Users\taote\OneDrive\Máy tính\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.UsersControl.UC_HoaDon.resources
+C:\Users\taote\OneDrive\Máy tính\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.UsersControl.UC_KhachHang.resources
+C:\Users\taote\OneDrive\Máy tính\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.UsersControl.UC_NhanVien.resources
+C:\Users\taote\OneDrive\Máy tính\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.UsersControl.UC_Sach.resources
+C:\Users\taote\OneDrive\Máy tính\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.UsersControl.UC_ThongKe.resources
+C:\Users\taote\OneDrive\Máy tính\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.csproj.GenerateResource.cache
+C:\Users\taote\OneDrive\Máy tính\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.csproj.CoreCompileInputs.cache
+C:\Users\taote\OneDrive\Máy tính\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.csproj.CopyComplete
+C:\Users\taote\OneDrive\Máy tính\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.exe
+C:\Users\taote\OneDrive\Máy tính\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.pdb
+D:\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.csproj.AssemblyReference.cache
+D:\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.csproj.SuggestedBindingRedirects.cache
+D:\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.Forms.DangNhap.resources
+D:\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.HoaDon.resources
+D:\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.Forms.SoLuong.resources
+D:\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.Properties.Resources.resources
+D:\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.Splash.resources
+D:\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.TaoHoaDon.resources
+D:\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.UsersControl.UC_HoaDon.resources
+D:\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.UsersControl.UC_KhachHang.resources
+D:\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.UsersControl.UC_NhanVien.resources
+D:\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.UsersControl.UC_Sach.resources
+D:\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.UsersControl.UC_ThongKe.resources
+D:\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.csproj.GenerateResource.cache
+D:\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.csproj.CoreCompileInputs.cache
+D:\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.exe
+D:\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.pdb
+D:\QuanLyNhaSach\QuanLyNhaSach\bin\Debug\QuanLyNhaSach.exe.config
+D:\QuanLyNhaSach\QuanLyNhaSach\bin\Debug\QuanLyNhaSach.exe
+D:\QuanLyNhaSach\QuanLyNhaSach\bin\Debug\QuanLyNhaSach.pdb
+D:\QuanLyNhaSach\QuanLyNhaSach\bin\Debug\EntityFramework.dll
+D:\QuanLyNhaSach\QuanLyNhaSach\bin\Debug\EntityFramework.SqlServer.dll
+D:\QuanLyNhaSach\QuanLyNhaSach\bin\Debug\EntityFramework.xml
+D:\QuanLyNhaSach\QuanLyNhaSach\bin\Debug\EntityFramework.SqlServer.xml
+D:\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.csproj.CopyComplete
+D:\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.UsersControl.UC_Quanly.resources
